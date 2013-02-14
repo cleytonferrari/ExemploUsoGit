@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ExemploDeUsoDoGit
 {
@@ -11,6 +7,7 @@ namespace ExemploDeUsoDoGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Word");
+            Console.WriteLine("Bem-Vindo ao Git");
         }
     }
 }
