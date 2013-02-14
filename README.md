@@ -1,8 +1,9 @@
-ExemploUsoGit
+Exemplo de Uso do Git
 =============
 
 #O Básico#
 No console do git
+
 1 - Crie um diretorio para guardar seu repositório
 
 	mkdir RepositorioGit
@@ -27,3 +28,7 @@ No console do git
 6 - Para baixar a ultima versão
 	
 	Git Pull Origin Master
+	
+7 - Para saber mais acesse
+
+	http://git-scm.com/book/pt-br/Primeiros-passos-Configura%C3%A7%C3%A3o-Inicial-do-Git
