@@ -8,6 +8,7 @@ namespace ExemploDeUsoDoGit
         {
             Console.WriteLine("Hello Word");
             Console.WriteLine("Bem-Vindo ao Git");
+            Console.WriteLine("Cleyton alterou isso");
         }
     }
 }
